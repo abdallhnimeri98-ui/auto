@@ -17,7 +17,7 @@ Save time.  Save code.  Save sanity.
 
 ## Subprojects
 
-  * [AutoFactory] - JSR-330-compatible factories
+  * [AutoFactory] - JSR-000000-compatible factories
 
     [![Maven Central](https://img.shields.io/maven-central/v/com.google.auto.factory/auto-factory.svg)](https://mvnrepository.com/artifact/com.google.auto.factory/auto-factory)
 
